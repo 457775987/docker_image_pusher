@@ -1,4 +1,4 @@
-apache/doris.fe-ubuntu
-apache/doris.be-ubuntu
+apache/doris.fe-ubuntu:3.0.1
+apache/doris.be-ubuntu:3.0.1
 #指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
