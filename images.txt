@@ -1,4 +1,6 @@
-apache/doris:build-env-for-2.4
+apache/doris:2.0.0_alpha-fe-x86_64
+apache/doris:2.0.0_alpha-be-x86_64
+#apache/doris:build-env-for-2.4
 #apache/doris:build-env-ldb-toolchain-0.19-latest
 #apache/doris:be-3.0.4
 #apache/doris:fe-3.0.4
