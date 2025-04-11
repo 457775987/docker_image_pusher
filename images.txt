@@ -1,5 +1,6 @@
+apache/doris:build-env-for-2.4
 #apache/doris:build-env-ldb-toolchain-0.19-latest
-apache/doris:be-3.0.4
-apache/doris:fe-3.0.4
+#apache/doris:be-3.0.4
+#apache/doris:fe-3.0.4
 #指定CPU架构
 #--platform=linux/arm64 xiaoyaliu/alist
