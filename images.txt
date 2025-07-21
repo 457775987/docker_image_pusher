@@ -7,6 +7,6 @@
 #apache/doris:be-3.0.4
 #apache/doris:fe-3.0.4
 #rancher/rancher:latest
-jc21/nginx-proxy-manager:latest
+#jc21/nginx-proxy-manager:latest
 #指定CPU架构
-#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 nacos/nacos-server:2.4.2.1
