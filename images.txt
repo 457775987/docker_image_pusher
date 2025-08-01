@@ -9,4 +9,4 @@
 #rancher/rancher:latest
 #jc21/nginx-proxy-manager:latest
 #指定CPU架构
---platform=linux/arm64 nacos/nacos-server:2.4.2.1
+--platform=linux/arm64 mysql:8.0.43
