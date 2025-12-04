@@ -12,4 +12,4 @@
 #--platform=linux/arm64 mysql:8.0.43
 #k8s.gcr.io/pause:3.8
 #apache/shardingsphere-proxy:5.4.1
-postgres:14
+--platform=linux/arm64 postgres:14
