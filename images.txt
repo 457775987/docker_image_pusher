@@ -14,4 +14,4 @@
 #apache/shardingsphere-proxy:5.4.1
 #bde2020/hadoop-row
 #bde2020/hive
-golang:1.21-alpine
+tomcat:9.0.115
