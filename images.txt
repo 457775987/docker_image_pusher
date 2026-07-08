@@ -14,4 +14,4 @@
 #apache/shardingsphere-proxy:5.4.1
 #bde2020/hadoop-row
 #bde2020/hive
-tomcat:9.0.115
+apache/rocketmq:5.5.0
