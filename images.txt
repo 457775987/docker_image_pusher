@@ -16,4 +16,4 @@
 #bde2020/hadoop-row
 #bde2020/hive
 #apache/rocketmq:5.5.0
-zlmediakit/zlmediakit:master
+--platform linux/arm64 zlmediakit/zlmediakit:master
