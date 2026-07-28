@@ -10,7 +10,7 @@
 #jc21/nginx-proxy-manager:latest
 #指定CPU架构
 #--platform=linux/arm64 mysql:8.0.43
---platform linux/arm64 dyrnq/rocketmq:4.9.7
+--platform linux/arm64 rocketmq:5.3.0
 #k8s.gcr.io/pause:3.8
 #apache/shardingsphere-proxy:5.4.1
 #bde2020/hadoop-row
